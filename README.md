@@ -13,7 +13,8 @@ We wrote our notebook using Google Colab. To import our notebook:
 2. Create a new notebook.
 3. Click on file on the top left, then upload.
 4. Upload our [project_notebook.ipynb](https://github.com/vanessadp17/SOEN471-assignment2/blob/main/project_notebook.ipynb) file.
-5. Run each code block starting from the top.
+5. Create a "data" folder in the "Files" panel on the left. Upload the two CSV datasets into the "data" folder.
+6. Run each code block starting from the top.
 
 ## Dependencies
 
